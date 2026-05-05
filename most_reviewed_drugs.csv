@@ -1,0 +1,11 @@
+drug_name,medical_condition,rating,no_of_reviews
+phentermine,"Weight Loss",8.7,2934
+"bupropion / naltrexone","Weight Loss",6.6,2013
+Contrave,"Weight Loss",6.6,1939
+escitalopram,Anxiety,7.4,1471
+Saxenda,"Weight Loss",7.5,1377
+bisacodyl,Constipation,5.2,1357
+nitrofurantoin,UTI,4.2,1242
+buspirone,Anxiety,5.8,1034
+zolpidem,Insomnia,6.9,1008
+isotretinoin,Acne,8,999
